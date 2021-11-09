@@ -1,0 +1,49 @@
+Exercicio 1:
+Estados: Posição do Navio em relação ao Porto (Pode estar em espera para atracar, estar atracado para descarga ou estar atracado para carga).
+
+Estado Inicial: Entrada do Porto com informação do Tempo de permanência no porto .
+
+Operadores: Navio pode atracar se houver capacidade no porto, efetuar a carga ou a descarga no tempo de permanência estipulado para o dia, e sair do porto . Navio fica em espera até que a capacidade do Porto esteja disponível para atracagem.
+
+Teste Objetivo: O navio chegou ao Porto, efetuou a operação de carga ou descarga dentro do tempo de permanência estipulado para aquele dia.
+
+Custo da Solução: Tempo de permanência do Navio dentro do Porto
+
+Exercicio 2:
+Estados: Posição do Navio em relação ao Porto e ao seu respetivo espaço de atracagem, Zona 1 para Barcos médios e Pequenos e Zona 2 Para Barcos Maiores. (Pode estar a espera para entrar, em operação de carga ou descarga).
+
+Estado Inicial: Entrada do Porto.
+
+Estado Final: Operação de Carga ou Descarga concluída e saída do Porto
+
+Operadores: Navio desloca-se para o Porto e atraca de acordo com a sua dimensão em diferentes zonas do Porto, se for de grande dimensão desloca-se para Zona 2 ou na Zona 1 se tiver dimensão de medio ou pequeno Porte, em um determinado tempo de permanência estipulado par aquele dia.
+
+Teste Objetivo: Navio efetuou a carga ou descarga na sua respetiva zona estipulada em um tempo igual ou inferior ao tempo de permanência estipulado para aquele dia.
+
+Custo da Solução: Tempo de permanência dentro do Porto ao longo da operação de carga ou descarga.
+
+
+Exercicio 3:
+Estados:  Qualquer posição do vendedor ao longo das cidades do trajeto.
+
+Estado Inicial: Cidade de início da viagem (Cidade A por exemplo).
+
+Estado Final: Cidade de Início após percorrer todas as outras.
+
+Operadores: Vendedor se movimenta ao longo das cidades do trajeto, sempre pelo menor caminho possível entre elas. Garantindo que regressa também pelo menor caminho possível à sua cidade de inicio do trajeto.
+
+Teste Objetivo: Vendedor percorreu todas as cidades pelo menor caminho possível, vendeu todos os seus produtos e regressou pelo menor caminho possível à sua cidade .
+
+Custo da Solução: Distância de caminho entre cada cidade.
+
+Exercicio 4:
+
+Estados: conhecimento sobre quem cria peixe como animal de estimação, cor da casa, nacionalidade, tipo de bebida, tipo de cigarro e tipo de animal de estimação.
+
+Estado Inicial: A procura de quem cria peixe como animal de estimação com a lista de informação existente.
+
+Operadores: com a informação existente existem cinco tipos de casas diferentes, cinco tipos de bebidas e cigarros diferentes e cinco tipos de animais de estimação. Nenhuma das pessoas podem possuir o mesmo tipo de casa, marca de cigarro , mara de bebida ou animal de estimação.
+
+Teste Objetivo: Quem é que cria peixe como animal de estimação.
+
+Custo da Solução: 5 unidades de preenchimento de uma tebela de 5 linha e 5 colunas (Donos de 1 a 5 , e 5 categorias de informação diferentes).

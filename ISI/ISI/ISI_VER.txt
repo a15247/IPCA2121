@@ -1,0 +1,13 @@
+ISI (Codigo):
+-deserialize
+-serialize
+
+
+Pesq.:
+-linq 
+rest and soap
+
+
+windowns comunication fund
+
+framwork 4.8 last	

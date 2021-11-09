@@ -1,0 +1,32 @@
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.csproj.AssemblyReference.cache
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.AssemblyInfoInputs.cache
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.AssemblyInfo.cs
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.csproj.CoreCompileInputs.cache
+D:\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.exe
+D:\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.deps.json
+D:\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.runtimeconfig.json
+D:\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.runtimeconfig.dev.json
+D:\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.dll
+D:\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\ref\aula2.dll
+D:\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.pdb
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.dll
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\ref\aula2.dll
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.pdb
+D:\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.genruntimeconfig.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.exe
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.deps.json
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.runtimeconfig.json
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.runtimeconfig.dev.json
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.dll
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\ref\aula2.dll
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\bin\Debug\net5.0\aula2.pdb
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.AssemblyInfoInputs.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.AssemblyInfo.cs
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.dll
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\ref\aula2.dll
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.pdb
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Visual_Git\Aula_2\aula2\aula2\obj\Debug\net5.0\aula2.genruntimeconfig.cache

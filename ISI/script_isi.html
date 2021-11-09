@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        //employees JSON document
+        var data = {
+            "employees":[
+                {"fistName": "Manuel", "lastName": "Ferreira"},
+                {"fistName": "Maria", "lastName": "Perreira"},
+                {"fistName": "Joao", "lastName": "Silva"},
+            ]
+        }
+    
+        function loadData()
+        {
+            //variaves
+            data.employees.forEach(showOne);
+    
+            //debug
+            function showOne(item, index){
+                console.log(item.firstName);
+            }
+    
+            //fill data
+            document.getElementById("fistNameInput").value = data.employees[0].firstName;
+            document.getElementById("lastNameInput").value = data.employees[0].lastName;
+        }
+    
+        function loadData2()
+        {
+            //variaves
+            data.employees.forEach(showOne);
+    
+            //fill the ul
+            function showOne(item, index)
+            {
+                document.getElementById("employeesList").innerHTML +=
+                `<li>$(item.firstName) $(item.lastName) </li>`
+            }
+             /*function loadData2() 
+            {
+            data.employees.forEach((employees) =>
+            { document.getElementById("employeesList").innerHTML += 
+            "<li>" + employees.firstName + " " + employees.lastName + "</li>" })
+            */
+        }
+    
+        }
+    </script>
+</head>
+
+<body>
+    <h1>JSON JavaScript example</h1>
+    <div>
+        <h2>Show one element</h2>
+        <label>FirstName:</label>
+        <input id="FirstNameInput" type="text" />
+        <label>LastName:</label>
+        <input id="LastNameInput" type="text" />
+        <button type="button" onclick="javascript: loadData();">
+        load</button>
+    </div>
+    <div>
+        <h2>Show all elements</h2>
+        <button type = "button" onclick="javascript: loadData2();">
+        load</button>
+        <p id="allEmployees"></p>
+        <ul id="employeesList"></ul>
+
+    </div>
+</body>
+</html>

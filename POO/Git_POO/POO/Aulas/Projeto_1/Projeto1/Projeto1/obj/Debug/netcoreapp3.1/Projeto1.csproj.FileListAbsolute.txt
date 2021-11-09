@@ -1,0 +1,10 @@
+C:\Users\João\OneDrive\Ambiente de Trabalho\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\OneDrive\Ambiente de Trabalho\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfoInputs.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfo.cs
+C:\Users\João\OneDrive\Ambiente de Trabalho\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfoInputs.cache
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfo.cs
+C:\Users\João\OneDrive\Ambiente de Trabalho\POO\POO\Aulas\Projeto_1\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.CoreCompileInputs.cache

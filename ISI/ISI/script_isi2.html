@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        var data = {
+            "employees": [
+                { "firstName": "Manel", "lastName": "Ferreira" },
+                { "firstName": "Maria", "lastName": "Pereira" },
+                { "firstName": "João", "lastName" : "Silva" },
+            ]
+        }
+        function loadData1() {
+            data.employees.forEach(showOne);
+            function showOne(item, index) {
+                console.log(item);
+            }
+            document.getElementById("firstNameInput").value = data.employees[0].firstName;
+            console.log(data.employees[0].lastName);
+            document.getElementById("lastNameInput").value = data.employees[0].lastName;
+        }
+        function loadData2() {
+            data.employees.forEach((employee) =>
+            { document.getElementById("employeesList").innerHTML += "<li>" + employee.firstName + " " + employee.lastName + "</li>" })
+            
+        }
+    </script>
+</head>
+<body>
+    <h1> JSON java example</h1>
+    <div>
+        <h2>Show one element</h2>
+        <label>FirstName</label>
+        <input id="firstNameInput" type="text" />
+        <label>Last Name</label>
+        <input id="lastNameInput" type="text" />
+        <button type="button" onclick=""> load </button>
+    </div>
+    <div>
+        <h2> Show all elements</h2>
+        <button type="button" onclick=""> load </button>
+        <p id="allEmployees"></p>
+        <ul id="employeesList">
+        </ul>
+    </div>
+</body>
+</html>

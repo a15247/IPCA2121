@@ -1,0 +1,16 @@
+D:\Visual_Git\Project_1\Project1\Project1\bin\Debug\net5.0\Project1.exe
+D:\Visual_Git\Project_1\Project1\Project1\bin\Debug\net5.0\Project1.deps.json
+D:\Visual_Git\Project_1\Project1\Project1\bin\Debug\net5.0\Project1.runtimeconfig.json
+D:\Visual_Git\Project_1\Project1\Project1\bin\Debug\net5.0\Project1.runtimeconfig.dev.json
+D:\Visual_Git\Project_1\Project1\Project1\bin\Debug\net5.0\Project1.dll
+D:\Visual_Git\Project_1\Project1\Project1\bin\Debug\net5.0\ref\Project1.dll
+D:\Visual_Git\Project_1\Project1\Project1\bin\Debug\net5.0\Project1.pdb
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\Project1.csproj.AssemblyReference.cache
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\Project1.AssemblyInfoInputs.cache
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\Project1.AssemblyInfo.cs
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\Project1.csproj.CoreCompileInputs.cache
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\Project1.dll
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\ref\Project1.dll
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\Project1.pdb
+D:\Visual_Git\Project_1\Project1\Project1\obj\Debug\net5.0\Project1.genruntimeconfig.cache

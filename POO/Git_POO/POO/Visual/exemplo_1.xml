@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ? >
+<DOCTYPE students SYSTEM "exemplo_2.dtd>
+<students>
+	<student id="15247" academic_year="2">
+		<name> Joao Gomes </name>
+		<age> 23 </age>
+		<adress>
+			<street>Rua Sr da Graca </street>
+			<city> Braga </city>
+			<country code="PT"> PORTUGAL </country>
+		</adress>
+	</student>
+<student id="15245" academic_year="3">
+<name> Jordan Vilaca </name>
+<age> 23 </age>
+<adress>
+<city> Braga </city>
+<country code="PT"> PORTUGAL </country>
+</adress>
+</student>
+</students>
+
+										
